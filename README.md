@@ -3,7 +3,7 @@ Tic tac toe is a fun game and with this assignment you will learn the basics of 
 
 ## What to do
 
-Its quite simple, create a tic-tac-toe both played by computer and 2nd player. For reference check ![this](https://playtictactoe.org/) out.
+Its quite simple, create a tic-tac-toe both played by computer and 2nd player. For reference check [this](https://playtictactoe.org/) out.
 
 Use React as the view and controller layer and Redux as the data layer. Features to be added:
 1. Should be single page app with no reloads
