@@ -9,7 +9,7 @@ Use React as the view and controller layer and Redux as the data layer. Features
 1. Should be single page app with no reloads
 2. Should have a reset button to reset the game at any momnent.
 3. Should show Next player -> X or O
-4. Should show all previous state and an option to toggle to it. For reference check ![this](https://harman052.github.io/react-tutorial-solutions/)
+4. Should show all previous state and an option to toggle to it. For reference check [this](https://harman052.github.io/react-tutorial-solutions/)
 
 #### If you think you are a pro add this as well
 1. Display the location for each move in the format (col, row) 
@@ -21,9 +21,9 @@ Use React as the view and controller layer and Redux as the data layer. Features
 Your have add these script in your project directory 
 
 ### npm run dev
-Runs the app in the development mode using ![webpack-dev-server](https://webpack.js.org/configuration/dev-server/).
+Runs the app in the development mode using [webpack-dev-server](https://webpack.js.org/configuration/dev-server/).
 The page should reload if you make edits. Implement hot module reload functionality from webpack
-See the section about ![deployment](https://webpack.js.org/guides/development/) for more information.
+See the section about [deployment](https://webpack.js.org/guides/development/) for more information.
 
 ### npm run build 
 Builds the app for production to the build folder.
@@ -31,5 +31,5 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build should be minified and the filenames include the hashes.
 
-See the section about ![deployment](https://webpack.js.org/guides/production/) for more information.
+See the section about [deployment](https://webpack.js.org/guides/production/) for more information.
 
