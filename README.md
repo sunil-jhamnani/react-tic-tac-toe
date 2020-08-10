@@ -6,13 +6,13 @@ Tic tac toe is a fun game and with this assignment you will learn the basics of 
 Its quite simple, create a tic-tac-toe both played by computer and 2nd player. For reference check [this](https://playtictactoe.org/) out.
 
 Use React as the view and controller layer and Redux as the data layer. 
-Use Webpack and babel as. bundler and transpiler. 
-Use css file for styling and add required loader to webpack config for that.
+Use Webpack and babel as bundler and transpiler. 
+Use css file for styling and add required loaders to webpack config for that.
 Try to create the app from scratch and not by using create-react-app.
 
 #### Features to be added:
 1. Should be single page app with no reloads
-2. Should have a reset button to reset the game at any momnent.
+2. Should have a reset button to reset the game at any moment.
 3. Should show Next player -> X or O
 4. Should show all previous state and an option to toggle to it. For reference check [this](https://harman052.github.io/react-tutorial-solutions/)
 
